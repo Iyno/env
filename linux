@@ -1,3 +1,6 @@
 https://www.yuque.com/kkuping/bu68dz/ksvta9?#P2Ycf
 
 shell学习的一些笔记
+
+ctrl+c，结束一般的死循环程序。
+不行的话，就ctrl+d，结束某些ctrl+c都继续死循环的程序。再不行就只能杀进程了。
